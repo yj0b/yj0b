@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Youssef Jalbakh
-- 👀 I’m 
-- 🌱 I’m currently learning to by lengend
-- 💞️ I’m looking to collaborate on big projects
+-  I’m currently learning to by lengend
+-  I’m looking to collaborate on big projects
 - 📫 How to reach me on jalbakhyoussef@gmail.com
 - ⚡ Fun fact: i'm 3arandass
 
